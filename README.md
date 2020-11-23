@@ -1,2 +1,2 @@
 # herbarium-data
-Repository for Herbarium invertebrate data analysis
+Repository for Herbarium invertebrate data analyses
